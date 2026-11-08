@@ -6,5 +6,3 @@ Lecture slides for AI for Materials
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 Slides: https://aiformaterials.github.io/lectures/
-
-PDFs: [pdf/](pdf/)

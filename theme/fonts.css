@@ -1,0 +1,6 @@
+/* Lato, self-hosted (SIL OFL, see fonts/OFL.txt) so the deck needs no network
+   in the lecture theatre. Latin subset, the four weights the theme uses. */
+@font-face { font-family: "Lato"; font-style: normal; font-weight: 300; font-display: block; src: url("fonts/lato-300.woff2") format("woff2"); }
+@font-face { font-family: "Lato"; font-style: normal; font-weight: 400; font-display: block; src: url("fonts/lato-400.woff2") format("woff2"); }
+@font-face { font-family: "Lato"; font-style: normal; font-weight: 700; font-display: block; src: url("fonts/lato-700.woff2") format("woff2"); }
+@font-face { font-family: "Lato"; font-style: normal; font-weight: 900; font-display: block; src: url("fonts/lato-900.woff2") format("woff2"); }

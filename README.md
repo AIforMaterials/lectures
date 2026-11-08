@@ -1,2 +1,6 @@
 # lectures
-Lecture materials for AI for Materials
+Lecture slides for AI for Materials
+
+Slides: https://aiformaterials.github.io/lectures/
+
+PDFs: [pdf/](pdf/)
